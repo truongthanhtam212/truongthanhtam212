@@ -1,6 +1,6 @@
 - Hi, I’m Tam Truong, a Business Analytics student (MSc.) at University of Oulu.
-- I’m currently learning SQL,Python, MATLAB, R
-- I’m looking to collaborate on ...
+- I’m currently learning SQL,Python, MATLAB, R...
+- I’m looking to collaborate on student projects for self-teaching progress.
 
 <!---
 truongthanhtam212/truongthanhtam212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
